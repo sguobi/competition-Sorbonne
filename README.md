@@ -1,0 +1,2 @@
+Résumé
+Cet article présente une approche d’explicabilité appliquée à la détection et l’analyse des comportements malveillants dans les applications Windows en utilisant des graphes de flux de contrôle (CFG) et des techniques d’explicabilité avancées. Nous combinons des méthodes d’explicabilité locales (LIME, SHAP) et globales (TreeExplainer, Grad-CAM) pour mieux comprendre les prédictions des modèles de classification de graphes. Les résultats montrent une amélioration significative de la compréhension des comportements malveillants.
